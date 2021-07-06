@@ -41,7 +41,7 @@ public class SendMailTest {
 	    
 	    //구글기준
 	    final String username = "dlalsgh131";         
-	    final String password = "";
+	    final String password = ""; 
 	    
 	    // 메일에 출력할 텍스트
 	    StringBuffer sb = new StringBuffer();
