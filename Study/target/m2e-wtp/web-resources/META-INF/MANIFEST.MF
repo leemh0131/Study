@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: ￬ﾝﾴ￬ﾕﾤ￬ﾋﾜ￬ﾊﾤ
+Build-Jdk: 15.0.2
+Implementation-Title: NEW - Qray
+Implementation-Version: 1.0.0
+Implementation-Vendor-Id: com.ensys.qray
+Implementation-Vendor: Chequer, Inc.
+Implementation-URL: http://www.axboot.com/ensys
+Main-Class: com.ensys.qray.axboot.config.AXBootApplicationInitializer
+Created-By: Maven Integration for Eclipse
+
