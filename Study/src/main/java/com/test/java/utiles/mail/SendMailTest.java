@@ -1,4 +1,4 @@
-package com.test.java.mail;
+package com.test.java.utiles.mail;
 
 import java.io.File;
 import java.util.Date;
@@ -27,7 +27,7 @@ public class SendMailTest {
 		sendMail();
 	}	
 	
-	//메일보내기
+	//메일보내기(구글기준)
 	public static void sendMail() {
 		// 메일 인코딩
 	    final String bodyEncoding = "UTF-8"; //콘텐츠 인코딩
@@ -39,8 +39,9 @@ public class SendMailTest {
 	    //String file = ""; // 첨부파일 경로
 	    String file = "C:\\Users\\이앤시스\\Desktop\\test\\한글테스트.txt"; // 첨부파일 경로	    
 	    
+	    //구글기준
 	    final String username = "dlalsgh131";         
-	    final String password = "rbomvlcmjftmlmxl";
+	    final String password = "";
 	    
 	    // 메일에 출력할 텍스트
 	    StringBuffer sb = new StringBuffer();
