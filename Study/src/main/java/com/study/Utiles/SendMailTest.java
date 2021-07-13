@@ -1,4 +1,4 @@
-package com.test.java.utiles.mail;
+package com.study.Utiles;
 
 import java.io.File;
 import java.util.Date;
@@ -25,7 +25,7 @@ public class SendMailTest {
 	
 	public static void main(String args[]) {
 		sendMail();
-	}	
+	}
 	
 	//메일보내기(구글기준)
 	public static void sendMail() {
